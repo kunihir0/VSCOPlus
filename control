@@ -1,0 +1,9 @@
+Package: com.kunihir0.vscoplus
+Name: VscoPlus
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Disable Ad and Enable Photo savings
+Maintainer: kunihir0
+Author: kunihir0
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
